@@ -1,0 +1,8 @@
+h3 {
+	color: orange;
+	font-family: "Georgia";
+}
+
+h3:hover {
+  color: black
+}
